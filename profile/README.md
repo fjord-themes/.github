@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="images/dash.png" alt="Fjord Theme" width="100%" />
+<img src="images/showcase.png" alt="Fjord Theme Showcase" width="100%" />
 
 <br>
 
@@ -23,23 +23,6 @@ A calming color scheme with a dusk-blue base, soft leaf-green accents,<br>cyan s
 
 <br>
 
-<table>
-  <tr>
-    <td width="50%"><img src="images/vscode.png" alt="VS Code" /></td>
-    <td width="50%"><img src="images/zed.png" alt="Zed" /></td>
-  </tr>
-  <tr>
-    <td width="50%"><img src="images/helix.png" alt="Helix" /></td>
-    <td width="50%"><img src="images/wezterm.png" alt="WezTerm" /></td>
-  </tr>
-  <tr>
-    <td width="50%"><img src="images/kitty.png" alt="Kitty" /></td>
-    <td width="50%"><img src="images/glamour.png" alt="Glamour" /></td>
-  </tr>
-</table>
-
-<br>
-
 ---
 
 **Editors** &nbsp;·&nbsp; [VS Code](https://github.com/fjord-themes/fjord-vscode) &nbsp;·&nbsp; [Zed](https://github.com/fjord-themes/fjord-zed) &nbsp;·&nbsp; [Helix](https://github.com/fjord-themes/fjord-helix) &nbsp;·&nbsp; [OpenCode](https://github.com/fjord-themes/fjord-opencode)
@@ -47,6 +30,10 @@ A calming color scheme with a dusk-blue base, soft leaf-green accents,<br>cyan s
 **Terminals** &nbsp;·&nbsp; [Kitty](https://github.com/fjord-themes/fjord-kitty) &nbsp;·&nbsp; [Alacritty](https://github.com/fjord-themes/fjord-alacritty) &nbsp;·&nbsp; [WezTerm](https://github.com/fjord-themes/fjord-wezterm) &nbsp;·&nbsp; [Warp](https://github.com/fjord-themes/fjord-warp) &nbsp;·&nbsp; [Windows Terminal](https://github.com/fjord-themes/fjord-windows-terminal)
 
 **Tools** &nbsp;·&nbsp; [Tmux](https://github.com/fjord-themes/fjord-tmux) &nbsp;·&nbsp; [Starship](https://github.com/fjord-themes/fjord-starship) &nbsp;·&nbsp; [Zsh](https://github.com/fjord-themes/fjord-zsh) &nbsp;·&nbsp; [Glamour](https://github.com/fjord-themes/fjord-glamour)
+
+<br>
+
+<img src="images/dash.png" alt="Fjord Theme" width="100%" />
 
 <br>
 
