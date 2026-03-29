@@ -10,7 +10,7 @@ A calming color scheme with a dusk-blue base, soft leaf-green accents,<br>cyan s
 
 <br>
 
-[![VS Code](https://img.shields.io/visual-studio-marketplace/i/jshuntley.fjord-theme?style=flat-square&label=VS%20Code%20Installs&color=5DA6EA&labelColor=1B2532)](https://marketplace.visualstudio.com/items?itemName=jshuntley.fjord-theme)
+[![VS Code](https://img.shields.io/visual-studio-marketplace/i/jshuntley.fjord-theme?style=flat-square&label=VS%20Code%20Installs&color=5DA6EA&labelColor=1B2532&cacheSeconds=3600)](https://marketplace.visualstudio.com/items?itemName=jshuntley.fjord-theme)
 [![License](https://img.shields.io/badge/license-MIT-9DD99A?style=flat-square&labelColor=1B2532)](https://github.com/fjord-themes/fjord-core/blob/main/LICENSE)
 
 <br>
