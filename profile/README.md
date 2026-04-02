@@ -10,15 +10,15 @@ A calming color scheme with a dusk-blue base, soft leaf-green accents,<br>cyan s
 
 <br>
 
-[![VS Code](https://img.shields.io/visual-studio-marketplace/i/jshuntley.fjord-theme?style=flat-square&label=VS%20Code%20Installs&color=5DA6EA&labelColor=1B2532&cacheSeconds=3600)](https://marketplace.visualstudio.com/items?itemName=jshuntley.fjord-theme)
-[![License](https://img.shields.io/badge/license-MIT-9DD99A?style=flat-square&labelColor=1B2532)](https://github.com/fjord-themes/fjord-core/blob/main/LICENSE)
+[![VS Code](https://img.shields.io/visual-studio-marketplace/i/jshuntley.fjord-theme?style=flat-square&label=VS%20Code%20Installs&color=5DA6EA&labelColor=1B2C32&cacheSeconds=3600)](https://marketplace.visualstudio.com/items?itemName=jshuntley.fjord-theme)
+[![License](https://img.shields.io/badge/license-MIT-9DD99A?style=flat-square&labelColor=1B2C32)](https://github.com/fjord-themes/fjord-core/blob/main/LICENSE)
 
 <br>
 
 | | | | | | | |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| ![](https://img.shields.io/badge/-%231B2532-1B2532?style=flat-square) | ![](https://img.shields.io/badge/-%239DD99A-9DD99A?style=flat-square) | ![](https://img.shields.io/badge/-%235DA6EA-5DA6EA?style=flat-square) | ![](https://img.shields.io/badge/-%23FFD285-FFD285?style=flat-square) | ![](https://img.shields.io/badge/-%23B9A0F8-B9A0F8?style=flat-square) | ![](https://img.shields.io/badge/-%23F37C7C-F37C7C?style=flat-square) | ![](https://img.shields.io/badge/-%23B8E7E9-B8E7E9?style=flat-square) |
-| `#1B2532` | `#9DD99A` | `#5DA6EA` | `#FFD285` | `#B9A0F8` | `#F37C7C` | `#B8E7E9` |
+| ![](https://img.shields.io/badge/-%231B2C32-1B2C32?style=flat-square) | ![](https://img.shields.io/badge/-%239DD99A-9DD99A?style=flat-square) | ![](https://img.shields.io/badge/-%235DA6EA-5DA6EA?style=flat-square) | ![](https://img.shields.io/badge/-%23FFD285-FFD285?style=flat-square) | ![](https://img.shields.io/badge/-%23B9A0F8-B9A0F8?style=flat-square) | ![](https://img.shields.io/badge/-%23F37C7C-F37C7C?style=flat-square) | ![](https://img.shields.io/badge/-%23B8E7E9-B8E7E9?style=flat-square) |
+| `#1B2C32` | `#9DD99A` | `#5DA6EA` | `#FFD285` | `#B9A0F8` | `#F37C7C` | `#B8E7E9` |
 | Background | Green | Blue | Yellow | Purple | Red | Cyan |
 
 <br>
@@ -37,6 +37,6 @@ A calming color scheme with a dusk-blue base, soft leaf-green accents,<br>cyan s
 
 <br>
 
-[![Buy Me A Coffee](https://img.shields.io/badge/Buy_Me_A_Coffee-99DD9A?style=for-the-badge&logo=buy-me-a-coffee&logoColor=FFD285&labelColor=1B2532)](https://buymeacoffee.com/jshuntley)
+[![Buy Me A Coffee](https://img.shields.io/badge/Buy_Me_A_Coffee-99DD9A?style=for-the-badge&logo=buy-me-a-coffee&logoColor=FFD285&labelColor=1B2C32)](https://buymeacoffee.com/jshuntley)
 
 </div>
