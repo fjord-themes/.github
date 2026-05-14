@@ -25,7 +25,7 @@ A calming color scheme with a dusk-blue base, primary leaf-green accents,<br>cya
 
 ---
 
-**Editors** &nbsp;·&nbsp; [VS Code](https://github.com/fjord-themes/fjord-vscode) &nbsp;·&nbsp; [Zed](https://github.com/fjord-themes/fjord-zed) &nbsp;·&nbsp; [Helix](https://github.com/fjord-themes/fjord-helix) &nbsp;·&nbsp; [Obsidian](https://github.com/fjord-themes/fjord-obsidian) &nbsp;·&nbsp; [OpenCode](https://github.com/fjord-themes/fjord-opencode)
+**Editors** &nbsp;·&nbsp; [VS Code](https://github.com/fjord-themes/fjord-vscode) &nbsp;·&nbsp; [Zed](https://github.com/fjord-themes/fjord-zed) &nbsp;·&nbsp; [Helix](https://github.com/fjord-themes/fjord-helix) &nbsp;·&nbsp; [Obsidian](https://github.com/jshuntley/fjord-obsidian) &nbsp;·&nbsp; [OpenCode](https://github.com/fjord-themes/fjord-opencode)
 
 **Terminals** &nbsp;·&nbsp; [Kitty](https://github.com/fjord-themes/fjord-kitty) &nbsp;·&nbsp; [Alacritty](https://github.com/fjord-themes/fjord-alacritty) &nbsp;·&nbsp; [WezTerm](https://github.com/fjord-themes/fjord-wezterm) &nbsp;·&nbsp; [Warp](https://github.com/fjord-themes/fjord-warp) &nbsp;·&nbsp; [Windows Terminal](https://github.com/fjord-themes/fjord-windows-terminal)
 
